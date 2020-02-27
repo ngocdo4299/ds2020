@@ -11,6 +11,10 @@ USTH ICT 2020 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* BI8-122	Nguyễn Khánh nam
+* Bi8-153	Nguyễn Trọng Sơn
+* Bi8-045	Phạm Việt Minh Đức
+* Bi8-157	Đỗ Anh Tú
+* BI8-029	Nguyễn Trung Dũng
+* Bi8-129	Đỗ Thị Minh Ngọc
 
